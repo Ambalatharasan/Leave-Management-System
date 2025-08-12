@@ -16,8 +16,7 @@ A simple **console-based Leave Management System** written in Java to track empl
 
 ## 📂 Project Structure
 ```
-LeaveManagementSystem.java
-Employee.java
+LeaveManagement.java
 ```
 
 ## 🚀 How It Works
