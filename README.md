@@ -58,11 +58,11 @@ emp.applyLeave(5); // ✅ Leave Approved. Remaining Leave Balance: 7 days
    ```
 3. **Compile** the program:
    ```bash
-   javac LeaveManagementSystem.java
+   javac LeaveManagement.java
    ```
 4. **Run** the program:
    ```bash
-   java LeaveManagementSystem
+   java LeaveManagement
    ```
 
 ## 🤝 Contributing
